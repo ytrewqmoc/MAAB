@@ -1,0 +1,1 @@
+12, john, manager, 23000

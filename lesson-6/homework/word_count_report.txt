@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 46
+Top 5 Words:
+a - 5
+of - 4
+that - 3
+is - 2
+passage - 2
