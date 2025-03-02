@@ -1,0 +1,32 @@
+{
+    "books": {
+        "The Great Gatsby": {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "is_borrowed": true
+        },
+        "1984": {
+            "title": "1984",
+            "author": "George Orwell",
+            "is_borrowed": false
+        },
+        "To Kill a Mockingbird": {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "is_borrowed": true
+        }
+    },
+    "members": {
+        "Alice": {
+            "name": "Alice",
+            "borrowed_books": [
+                "The Great Gatsby",
+                "To Kill a Mockingbird"
+            ]
+        },
+        "Bob": {
+            "name": "Bob",
+            "borrowed_books": []
+        }
+    }
+}
